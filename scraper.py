@@ -34,7 +34,7 @@ def send_email():
     server.starttls()
     server.ehlo()
 
-    server.login('hraj2661999@gmail.com', 'qyzyour_keywsqqi')
+    server.login('hraj2661999@gmail.com', 'RaNdOm_PaSsWoRd')
 
     subject = "Price just fell down!"
     body ="Price just fell down!\nCheck the link"+URL
